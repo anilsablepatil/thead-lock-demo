@@ -1,0 +1,13 @@
+*.class
+*.bin
+/.classpath
+/.gradle/4.7/fileContent/fileContent.lock
+/.gradle/4.7/fileHashes/fileHashes.lock
+/.gradle/4.7/taskHistory/taskHistory.lock
+/.gradle/buildOutputCleanup/buildOutputCleanup.lock
+/.gradle/buildOutputCleanup/cache.properties
+/.gradle/vcsWorkingDirs/gc.properties
+/.project
+/.settings/org.eclipse.buildship.core.prefs
+/build/libs/sample-gradle-app-0.1.0.jar
+/build/tmp/bootJar/MANIFEST.MF
